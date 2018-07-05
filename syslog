@@ -1,0 +1,88 @@
+Nightrun started by pn93 at Mon Jun 29 04:55:42 CDT 1992.
+************* DIKUMUD REBOOT -- Run nr 1 *********
+Mon Jun 29 04:55:42 1992 :: Running game on port 4000.
+Mon Jun 29 04:55:42 1992 :: Using lib as data directory.
+Mon Jun 29 04:55:42 1992 :: Signal trapping.
+Mon Jun 29 04:55:42 1992 :: Opening mother connection.
+Mon Jun 29 04:55:42 1992 :: Boot db -- BEGIN.
+Mon Jun 29 04:55:42 1992 :: Resetting the game time:
+Mon Jun 29 04:55:42 1992 ::    Current Gametime: 16H 1D 9M 55Y.
+Mon Jun 29 04:55:42 1992 :: Reading newsfile, credits, help-page, info and motd.
+Mon Jun 29 04:55:42 1992 :: Opening mobile, object and help files.
+Mon Jun 29 04:55:43 1992 :: Loading zone table.
+Mon Jun 29 04:55:43 1992 :: Loading rooms.
+Mon Jun 29 04:55:48 1992 :: Renumbering rooms.
+Room -1360 does not exist in database
+Mon Jun 29 04:55:48 1992 :: Generating index tables for mobile and object files.
+Mon Jun 29 04:55:48 1992 :: Renumbering zone table.
+Mon Jun 29 04:55:48 1992 :: Generating player index.
+Mon Jun 29 04:55:49 1992 :: Loading fight messages.
+Mon Jun 29 04:55:49 1992 :: Loading social messages.
+Mon Jun 29 04:55:49 1992 :: Loading pose messages.
+Mon Jun 29 04:55:49 1992 :: Assigning function pointers:
+Mon Jun 29 04:55:49 1992 ::    Mobiles.
+Mon Jun 29 04:55:49 1992 ::    Objects.
+Mon Jun 29 04:55:49 1992 ::    Room.
+Mon Jun 29 04:55:49 1992 ::    Commands.
+Mon Jun 29 04:55:49 1992 ::    Spells.
+Mon Jun 29 04:55:49 1992 :: Updating characters with saved items:
+Mon Jun 29 04:55:49 1992 ::    Processing Fritz[1].
+Mon Jun 29 04:55:49 1992 ::    Updating Fritz
+Mon Jun 29 04:55:49 1992 ::    Processing Meerclar[2].
+Mon Jun 29 04:55:49 1992 ::    Updating Meerclar
+Performing boot-time reset of LIMBO (rooms 0-2).
+Performing boot-time reset of Goon Rooms (rooms 3-5).
+Performing boot-time reset of In the Air... (rooms 6-1099).
+Performing boot-time reset of Northern Midgaard Main City (rooms 1100-3099).
+Performing boot-time reset of Southern part of Midgaard (rooms 3100-3199).
+Performing boot-time reset of River of Midgaard (rooms 3200-3299).
+Performing boot-time reset of Building in Midgaard (rooms 3300-3399).
+Performing boot-time reset of Graveyard plus (rooms 3400-3499).
+Performing boot-time reset of Miden'Nir (rooms 3500-3599).
+Performing boot-time reset of Arena (rooms 3600-3799).
+Performing boot-time reset of Moria level 1-2 (rooms 3800-4099).
+Performing boot-time reset of Moria level 3-4 (rooms 4100-4199).
+Performing boot-time reset of The Great Eastern Desert (rooms 4200-5099).
+Performing boot-time reset of drow city (rooms 5100-5199).
+Performing boot-time reset of The City of Thalos (rooms 5200-5299).
+Performing boot-time reset of HAON-DOR-LIGHT (rooms 5300-6099).
+Performing boot-time reset of HAON-DOR-DARK (rooms 6100-6199).
+Performing boot-time reset of Arachnos (rooms 6200-6399).
+Performing boot-time reset of The Dwarven Kingdom (rooms 6400-6558).
+Performing boot-time reset of QUIFAEL-CUSTOM-ROOMS (rooms 6559-6999).
+Performing boot-time reset of Sewer (rooms 7000-7099).
+Performing boot-time reset of SecondSewer (rooms 7100-7199).
+Performing boot-time reset of SEWERMAZE (rooms 7200-7399).
+Performing boot-time reset of The tunnels (rooms 7400-7899).
+Performing boot-time reset of Redferne's Residence (rooms 7900-7999).
+Performing boot-time reset of Main matrix (rooms 8000-8099).
+Performing boot-time reset of Main_matrix_auxiliary (rooms 8100-8999).
+Performing boot-time reset of Dylan's_area (rooms 9000-9199).
+Mon Jun 29 04:55:51 1992 :: Boot db -- DONE.
+Mon Jun 29 04:55:51 1992 :: Entering game loop.
+Mon Jun 29 04:55:51 1992 :: dtablesize set to:  9199
+
+Mon Jun 29 04:55:51 1992 :: avail_descs set to: 56
+Mon Jun 29 04:56:02 1992 :: salesman man 7
+Mon Jun 29 04:56:02 1992 :: Attempting to call a non-existing MOB func. (mobact.c)
+Mon Jun 29 04:56:02 1992 :: salesman man 7
+Mon Jun 29 04:56:02 1992 :: Attempting to call a non-existing MOB func. (mobact.c)
+Mon Jun 29 04:56:02 1992 :: salesman man 7
+Mon Jun 29 04:56:02 1992 :: Attempting to call a non-existing MOB func. (mobact.c)
+Mon Jun 29 04:56:35 1992 :: Carl[bert.eecs.uic.edu] has connected.
+Mon Jun 29 04:56:37 1992 :: Loading chars equipment from crash file.
+Board : Board-message file corrupt or nonexistent.
+Mon Jun 29 05:07:51 1992 :: salesman man 7
+Mon Jun 29 05:07:52 1992 :: Attempting to call a non-existing MOB func. (mobact.c)
+Mon Jun 29 05:07:52 1992 :: salesman man 7
+Mon Jun 29 05:07:52 1992 :: Attempting to call a non-existing MOB func. (mobact.c)
+Mon Jun 29 05:10:18 1992 :: Losing player: Carl.
+Mon Jun 29 05:10:27 1992 :: Ddruid[bert.eecs.uic.edu] has connected.
+Mon Jun 29 05:10:30 1992 :: Loading chars equipment from crash file.
+Mon Jun 29 05:10:30 1992 :: Loading char equipment from crash
+Board : Can't open message file. Board will be empty.
+Mon Jun 29 05:10:38 1992 :: Shutdown by Ddruid.
+Mon Jun 29 05:10:38 1992 :: Closing all sockets.
+Mon Jun 29 05:10:38 1992 :: Closing link to: Ddruid.
+Mon Jun 29 05:10:38 1992 :: Normal termination of game.
+Nightrun terminating (after run nr 1).
